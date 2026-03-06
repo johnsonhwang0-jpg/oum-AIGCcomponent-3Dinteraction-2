@@ -523,7 +523,7 @@ export default function App() {
     <div className="w-full h-screen bg-[#050505] text-white flex flex-col md:flex-row font-sans overflow-hidden">
       {/* 3D Scene */}
       <div className="flex-1 relative h-[60vh] md:h-full order-2 md:order-1">
-        <Canvas shadows camera={{ position: [0, 4, 12], fov: 40 }} dpr={[1, 2]}>
+        <Canvas shadows camera={{ position: [0, 4, 15], fov: 40 }} dpr={[1, 2]}>
           <color attach="background" args={['#020204']} />
           <fog attach="fog" args={['#020204', 10, 30]} />
           
