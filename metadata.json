@@ -1,0 +1,5 @@
+{
+  "name": "Optics Lab 3D",
+  "description": "Interactive 3D simulation of optical lenses (convex/concave) demonstrating ray tracing, image formation, and the lens equation.",
+  "requestFramePermissions": []
+}
