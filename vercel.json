@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/aigc-component-3D-2/:path*",
+      "destination": "/:path*"
+    }
+  ]
+}
